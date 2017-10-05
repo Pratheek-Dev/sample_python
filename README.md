@@ -16,4 +16,4 @@ In shell, type:
 
 #### License
 
-MIT License
+[MIT License](./LICENSE.md)
