@@ -13,3 +13,7 @@ In shell, type:
 #### Script:
 
 [first_non_repeating_letter.py](./src/first_non_repeating_letter.py)
+
+#### License
+
+MIT License
