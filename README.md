@@ -12,5 +12,5 @@ In shell, type:
 
 #### Script:
 
-[first_non_repeating_letter.py](../src/ffirst_non_repeating_letter.py
+[first_non_repeating_letter.py](./src/ffirst_non_repeating_letter.py
 )
